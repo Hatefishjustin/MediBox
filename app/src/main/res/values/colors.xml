@@ -1,0 +1,5 @@
+<resources>
+    <!-- Only used by the Android window theme to avoid a flash before Compose paints. -->
+    <color name="paper">#FAF7F2</color>
+    <color name="ink">#2B2722</color>
+</resources>
